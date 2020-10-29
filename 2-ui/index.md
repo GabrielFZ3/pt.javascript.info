@@ -1,3 +1,4 @@
-# Browser: Document, Events, Interfaces 
+# Navegador: Documento, Eventos, Interfaces 
 
-Learning how to manage the browser page: add elements, manipulate their size and position, dynamically create interfaces and interact with the visitor.
+Aprendendo a gerenciar páginas do navegador: adicionar elementos, manipular seus tamanhos e posições, dinamicamente criar interfaces e interagir com o visitante.
+
